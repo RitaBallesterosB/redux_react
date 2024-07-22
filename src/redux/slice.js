@@ -31,3 +31,5 @@ export const { setName } = userSlice.actions;
 // Exportar los reducers
 export const counterReducer = counterSlice.reducer;
 export const userReducer = userSlice.reducer;
+
+// terminado
